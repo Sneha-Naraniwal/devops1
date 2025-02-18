@@ -3,7 +3,7 @@
 **By: Sneha Naraniwal**
 
 ## Presentation
-[Presentation Prjoect PPTX file](https://docs.google.com/presentation/d/1L9147HyrD8Dg6H7MsP-jmPzQlQfaZx2g/view)
+[Presentation Prjoect PPTX](https://docs.google.com/presentation/d/1L9147HyrD8Dg6H7MsP-jmPzQlQfaZx2g/view)
 
 
 ## 📌 Introduction
