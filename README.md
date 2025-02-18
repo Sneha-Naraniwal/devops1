@@ -2,6 +2,10 @@
 
 **By: Sneha Naraniwal**
 
+## Presentation
+[Presentation Prjoect PPTX file](https://docs.google.com/presentation/d/1L9147HyrD8Dg6H7MsP-jmPzQlQfaZx2g/view)
+
+
 ## 📌 Introduction
 
 Subversion (SVN) and Mercurial (hg) are popular version control systems that help manage changes to files and directories over time. This guide walks you through setting up both an SVN and a Mercurial server on Linux, configuring users, creating branches, merging changes, and resolving common errors in an easy-to-follow manner.
